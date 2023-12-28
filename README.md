@@ -35,7 +35,7 @@
   <br>
 ### ⚙️ &nbsp;GitHub Analytics
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Arataki-Oni" alt="Arataki-Oni" /></a>
-  <p><img src="https://github-readme-stats.vercel.app/api?username=Arataki-Oni&show_icons=true&locale=en" alt="Arataki-Oni" /></p>
+  <a align="left" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Arataki-Oni" alt="Arataki-Oni" /></a>
+  <p align="right"><img src="https://github-readme-stats.vercel.app/api?username=Arataki-Oni&show_icons=true&locale=en" alt="Arataki-Oni" /></p>
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arataki-Oni&show_icons=true&locale=en&layout=compact" alt="Arataki-Oni" /></p>
 </div>
