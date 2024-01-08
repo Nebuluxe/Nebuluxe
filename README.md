@@ -13,14 +13,14 @@ Sobre mi
 - 📫 Me puedes escribir a **jadiazs2003@gmail.com**
 - 📄 Mi experiencia la puedes encontrar en [https://www.linkedin.com/in/joaquin-diaz-a6ba2b186/](https://www.linkedin.com/in/joaquin-diaz-a6ba2b186/)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Mas de mi experiencia en:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/joaquin-diaz-a6ba2b186/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sebasti%c3%a1n-contreras-bravo-a07a3847" height="30" width="40" /></a>
 </p>
 
 <br>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Lenguajes y Herramientas</h3>
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
@@ -35,6 +35,7 @@ Sobre mi
   <br>
 ### ⚙️ &nbsp;GitHub Analytics
 <div align="center">
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nebuluxe" alt="Nebuluxe" /></a> </p>
   <a href="https://github.com/Nebuluxe">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nebuluxe&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nebuluxe&layout=compact&langs_count=8&theme=dark"/>
