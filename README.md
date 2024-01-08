@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">˗ˏˋ Hola, soy ★<b>Nebuluxe</b>★ ˎˊ˗</h1>
 </div>
-<img src="https://drive.google.com/file/d/12isutCW4Gl4bYNo4M6OU_fpkmPW6i4rh/view?usp=sharing">
+<img src="https://media.licdn.com/dms/image/D5616AQEPEx7PfOaNUQ/profile-displaybackgroundimage-shrink_350_1400/0/1704745681030?e=1710374400&v=beta&t=gfn0cOt17oIdsI70F7DOnJqGB2Z31MGRU4pkI5Oxa9Q">
 
 ## Sobre mi
 
