@@ -34,8 +34,11 @@ Sobre mi
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
   <br>
 ### ⚙️ &nbsp;GitHub Analytics
-<div>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Arataki-Oni" alt="Arataki-Oni" /></a>
-  <p ><img src="https://github-readme-stats.vercel.app/api?username=Arataki-Oni&show_icons=true&locale=en" alt="Arataki-Oni" /></p>
-  <p ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arataki-Oni&show_icons=true&locale=en&layout=compact" alt="Arataki-Oni" /></p>
+<div align="center">
+  <a href="https://github.com/Nebuluxe">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nebuluxe&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nebuluxe&layout=compact&langs_count=8&theme=dark"/>
+    <img height="148em" src="https://github-readme-stats.vercel.app/api?username=Nebuluxe&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark"/>
+    <img height="148em" src="https://github-readme-streak-stats.herokuapp.com/?user=Nebuluxe&theme=dark" alt="Nebuluxe" /></p>
+  </a>
 </div>
