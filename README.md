@@ -56,7 +56,7 @@
 <h3 align="left">📈 GitHub Analytics</h3>
 
 <div align="center">
-  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nebuluxe" alt="Nebuluxe" /></a> </p>
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nebuluxe&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Nebuluxe" /></a> </p>
   <a href="https://github.com/Nebuluxe">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nebuluxe&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nebuluxe&layout=compact&langs_count=8&theme=dark"/>
