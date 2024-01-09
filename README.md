@@ -58,10 +58,10 @@
 <div align="center">
   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nebuluxe&theme=dark" alt="Nebuluxe" /></a> </p>
   <a href="https://github.com/Nebuluxe">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nebuluxe&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nebuluxe&layout=compact&langs_count=8&theme=dark"/>
-    <img height="148em" src="https://github-readme-stats.vercel.app/api?username=Nebuluxe&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark"/>
-    <img height="148em" src="https://github-readme-streak-stats.herokuapp.com/?user=Nebuluxe"/></p>
+    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nebuluxe&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nebuluxe&layout=compact&langs_count=8&theme=dark"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Nebuluxe&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark"/>
+    <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Nebuluxe&theme=dark"/></p>
   </a>
 </div>
 </main>
