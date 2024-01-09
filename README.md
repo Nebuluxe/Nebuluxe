@@ -3,7 +3,9 @@
   <img src="https://media.licdn.com/dms/image/D5616AQEPEx7PfOaNUQ/profile-displaybackgroundimage-shrink_350_1400/0/1704745681030?e=1710374400&v=beta&t=gfn0cOt17oIdsI70F7DOnJqGB2Z31MGRU4pkI5Oxa9Q">
 </div>
 
-Sobre mi 
+<br>
+
+<h3 align="left"> Sobre mi </h3>
 
 - 🏢 Actualmente trabajo en <a href="https://www.foldersoft.net/">Foldersoft</a> 🏢
 - 🧑‍🎓 Analista Programador
