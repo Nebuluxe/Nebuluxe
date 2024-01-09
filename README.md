@@ -61,7 +61,7 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nebuluxe&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nebuluxe&layout=compact&langs_count=8&theme=dark"/>
     <img height="148em" src="https://github-readme-stats.vercel.app/api?username=Nebuluxe&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark"/>
-    <img height="148em" src="https://github-readme-streak-stats.herokuapp.com/?user=Nebuluxe&theme=dark" alt="Nebuluxe" /></p>
+    <img height="148em" src="https://github-readme-streak-stats.herokuapp.com/?user=Nebuluxe"/></p>
   </a>
 </div>
 </main>
