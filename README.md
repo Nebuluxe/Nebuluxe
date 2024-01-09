@@ -2,12 +2,13 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8">
-  <style>
+<!--  <style>
     body {
       background-color: black;
       color: white;
     }
   </style>
+-->
 </head>
 <body>
 
