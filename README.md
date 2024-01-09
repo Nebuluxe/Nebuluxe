@@ -2,20 +2,23 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8">
-  <title>Título de la página</title>
-  <!-- Enlaces a archivos CSS, fuentes, etc. -->
-  <link rel="stylesheet" href="styles.css">
+  <style>
+    body {
+      background-color: black;
+      color: white;
+    }
+  </style>
 </head>
 <body>
 
-  <header>
-  <div align="center">
-  <h1 align="center">˗ˏˋ Hola soy <b>Nebuluxe</b> ˎˊ˗</h1>
-    <img src="https://media.licdn.com/dms/image/D5616AQEPEx7PfOaNUQ/profile-displaybackgroundimage-shrink_350_1400/0/1704745681030?e=1710374400&v=beta&t=gfn0cOt17oIdsI70F7DOnJqGB2Z31MGRU4pkI5Oxa9Q">
-  </div>
-  </header>
+<header>
+<div align="center">
+<h1 align="center">˗ˏˋ Hola soy <b>Nebuluxe</b> ˎˊ˗</h1>
+  <img src="https://media.licdn.com/dms/image/D5616AQEPEx7PfOaNUQ/profile-displaybackgroundimage-shrink_350_1400/0/1704745681030?e=1710374400&v=beta&t=gfn0cOt17oIdsI70F7DOnJqGB2Z31MGRU4pkI5Oxa9Q">
+</div>
+</header>
 
-  <main>
+<main>
 <h3 align="left"> Sobre mi </h3>
 
 - 🏢 Actualmente trabajo en <a href="https://www.foldersoft.net/">Foldersoft</a> 🏢
@@ -61,11 +64,7 @@
     <img height="148em" src="https://github-readme-streak-stats.herokuapp.com/?user=Nebuluxe&theme=dark" alt="Nebuluxe" /></p>
   </a>
 </div>
-  </main>
-
-  <footer>
-    <p>Derechos reservados &copy; 2024</p>
-  </footer>
+</main>
 
 </body>
 </html>
