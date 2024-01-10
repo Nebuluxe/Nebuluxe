@@ -30,7 +30,7 @@
 - 💬 Puedes preguntarme de **C#, POO, BBDD, RAP y API RES**
 - 📫 Me puedes escribir a **jadiazs2003@gmail.com**
 - 📄 Mi experiencia la puedes encontrar en [https://www.linkedin.com/in/joaquin-diaz-a6ba2b186/](https://www.linkedin.com/in/joaquin-diaz-a6ba2b186/)
-- ⚡ Funfact, me convertire en el mejor jungla de league of legends
+- ⚡ Funfact, me dan miedo los ratones de alcantarilla
   
 <h3 align="left">👨🏻‍💻 Mas de mi experiencia en</h3>
 <p align="left">
