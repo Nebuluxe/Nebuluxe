@@ -30,7 +30,8 @@
 - 💬 Puedes preguntarme de **C#, POO, BBDD, RAP y API RES**
 - 📫 Me puedes escribir a **jadiazs2003@gmail.com**
 - 📄 Mi experiencia la puedes encontrar en [https://www.linkedin.com/in/joaquin-diaz-a6ba2b186/](https://www.linkedin.com/in/joaquin-diaz-a6ba2b186/)
-
+- ⚡ Funfact, me convertire en el mejor jungla de league of legends
+  
 <h3 align="left">👨🏻‍💻 Mas de mi experiencia en</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/joaquin-diaz-a6ba2b186/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sebasti%c3%a1n-contreras-bravo-a07a3847" height="30" width="40" /></a>
