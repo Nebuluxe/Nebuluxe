@@ -14,11 +14,11 @@
 
 <header>
 <div align="center">
-<h1 align="center">˗ˏˋ Hola soy <b>Nebuluxe</b> ˎˊ˗</h1>
+  <h1 align="center">˗ˏˋ Hola soy <b>Nebuluxe</b> ˎˊ˗</h1>
   <img src="https://media.licdn.com/dms/image/D5616AQEPEx7PfOaNUQ/profile-displaybackgroundimage-shrink_350_1400/0/1704745681030?e=1710374400&v=beta&t=gfn0cOt17oIdsI70F7DOnJqGB2Z31MGRU4pkI5Oxa9Q">
 </div>
 </header>
-
+<h1 align="center"></h1>
 <main>
 <h3 align="left"> Sobre mi </h3>
 
@@ -66,7 +66,7 @@
   </a>
 </div>
 </main>
-<h1 align="center">˗ˏˋ ˎˊ˗</h1>
+<h1 align="center"></h1>
 </body>
 </html>
 
