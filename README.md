@@ -26,11 +26,9 @@
 - 🧑‍🎓 Analista Programador
 - 🖥️ FullStack Developer
 - </> Todos mis demos de código están disponibles en <a href="https://github.com/Arataki-Oni">Repositorio</a>
-- 💬 Puedes preguntarme de **C#, POO, BBDD, RAP y API RES**
+- 💬 Puedes preguntarme de **C#, POO, SQL, .NET (Core, Framework), RAP y API RES**
 - 📫 Me puedes escribir a **jadiazs2003@gmail.com**
-- 📄 Mi experiencia la puedes encontrar en [https://www.linkedin.com/in/joaquin-diaz-a6ba2b186/](https://www.linkedin.com/in/joaquin-diaz-a6ba2b186/)
-- ⚡ Funfact, me dan miedo los ratones de alcantarilla
-  
+ 
 <h3 align="left">👨🏻‍💻 Mas de mi experiencia en</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/joaquin-diaz-a6ba2b186/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joaquin-diaz-a6ba2b186" height="30" width="40" /></a>
