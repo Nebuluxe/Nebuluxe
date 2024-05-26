@@ -15,7 +15,7 @@
 <header>
 <div align="center">
   <br>
-  <img src="[https://media.licdn.com/dms/image/D5616AQEPEx7PfOaNUQ/profile-displaybackgroundimage-shrink_350_1400/0/1704745681030?e=1710374400&v=beta&t=gfn0cOt17oIdsI70F7DOnJqGB2Z31MGRU4pkI5Oxa9Q](https://media.licdn.com/dms/image/D4E16AQF7qqmBWmwkDQ/profile-displaybackgroundimage-shrink_350_1400/0/1715096340132?e=1720656000&v=beta&t=AfdkttJkVXZuULtmS4axtuIxTN10-Hj_5ZsZZYoBgRA)">
+  <img src="https://media.licdn.com/dms/image/D4E16AQF7qqmBWmwkDQ/profile-displaybackgroundimage-shrink_350_1400/0/1715096340132?e=1722470400&v=beta&t=uVO4vJntiyVOaz4x7By3VREZSFVUmFK8WtUmjh1Q87Y">
   <h1 align="center"></h1>
 </div>
 </header>
