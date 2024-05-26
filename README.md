@@ -24,7 +24,7 @@
 
 - 🏢 Actualmente trabajo en <a href="https://www.foldersoft.net/">Foldersoft</a> 🏢
 - 🧑‍🎓 Analista Programador
-- 🖥️ Back-End Developer
+- 🖥️ FullStack Developer
 - </> Todos mis demos de código están disponibles en <a href="https://github.com/Arataki-Oni">Repositorio</a>
 - 💬 Puedes preguntarme de **C#, POO, BBDD, RAP y API RES**
 - 📫 Me puedes escribir a **jadiazs2003@gmail.com**
@@ -33,7 +33,7 @@
   
 <h3 align="left">👨🏻‍💻 Mas de mi experiencia en</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/joaquin-diaz-a6ba2b186/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sebasti%c3%a1n-contreras-bravo-a07a3847" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/joaquin-diaz-a6ba2b186/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joaquin-diaz-a6ba2b186" height="30" width="40" /></a>
 </p>
 
 <br>
