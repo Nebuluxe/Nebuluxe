@@ -50,6 +50,7 @@
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="45" height="45"/> </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45"/> </a> 
   <a href="https://heroku.com" rel="nofollow"> <img src="https://camo.githubusercontent.com/37d18c783eef6f2c2ee36b6cf889e89a00f576c700a1370748d79198fa2358cb/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6865726f6b752f6865726f6b752d69636f6e2e737667" alt="heroku" width="45" height="45" data-canonical-src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="45" height="45"> </a>
+  <a href="https://www.python.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"> </a>
 </div>
 
 <br>
