@@ -23,7 +23,7 @@
 <h3 align="left"> Sobre mi </h3>
 
 - 🏢 Actualmente trabajo en <a href="https://www.foldersoft.net/">Foldersoft</a> 🏢
-- 🧑‍🎓 Analista Programador
+- 🧑‍🎓 Ingeniero Informatico
 - 🖥️ FullStack Developer
 - </> Todos mis demos de código están disponibles en <a href="https://github.com/Arataki-Oni">Repositorio</a>
 - 💬 Puedes preguntarme de **C#, POO, SQL, .NET (Core, Framework), RAP y API RES**
