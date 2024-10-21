@@ -28,11 +28,6 @@
 - </> Todos mis demos de código están disponibles en <a href="https://github.com/Arataki-Oni">Repositorio</a>
 - 💬 Puedes preguntarme de **C#, POO, SQL, .NET (Core, Framework), RAP y API RES**
 - 📫 Me puedes escribir a **jadiazs2003@gmail.com**
- 
-<h3 align="left">👨🏻‍💻 Mas de mi experiencia en</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/joaquin-diaz-a6ba2b186/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joaquin-diaz-a6ba2b186" height="30" width="40" /></a>
-</p>
 
 <br>
 <h3 align="left">⚙️🔧 Lenguajes y Herramientas </h3>
