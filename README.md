@@ -51,6 +51,7 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45"/> </a> 
   <a href="https://heroku.com" rel="nofollow"> <img src="https://camo.githubusercontent.com/37d18c783eef6f2c2ee36b6cf889e89a00f576c700a1370748d79198fa2358cb/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6865726f6b752f6865726f6b752d69636f6e2e737667" alt="heroku" width="45" height="45" data-canonical-src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="45" height="45"> </a>
   <a href="https://www.python.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"> </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" rel="nofollow"> <img src="https://camo.githubusercontent.com/29dde2a136637475ff7726f780237361f2f1915e8e37b67fadb0b2eb5af21478/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3330333232392f6d6963726f736f66742d73716c2d7365727665722d6c6f676f2e737667" alt="mssql" width="45" height="45" data-canonical-src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" > </a>
 </div>
 
 <br>
