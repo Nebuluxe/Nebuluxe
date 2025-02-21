@@ -11,14 +11,6 @@
 -->
 </head>
 <body>
-
-<header>
-<div align="center">
-  <br>
-  <img src="https://media.licdn.com/dms/image/v2/D4E16AQF7qqmBWmwkDQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1715096340132?e=1733961600&v=beta&t=DCA-0oUjJPYTdzgNKUff6p_h0gA0z1p5gmVgjOYBZHg">
-  <h1 align="center"></h1>
-</div>
-</header>
 <main>
 <h3 align="left"> Sobre mi </h3>
 
